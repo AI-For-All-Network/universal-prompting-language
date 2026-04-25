@@ -1,0 +1,5 @@
+universal-prompting-language
+Copyright 2026 Robert McGinnis
+
+This product includes software developed by the Universal Prompting Language project.
+Project incubated by Robert under the working name "AI For All Network".
