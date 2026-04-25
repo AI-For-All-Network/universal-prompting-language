@@ -1,0 +1,14 @@
+# Global owners (fallback)
+* @YOUR-GITHUB-USERNAME
+
+# Specs and design
+/spec/ @YOUR-GITHUB-USERNAME @your-org/spec-team
+
+# Compiler and implementation
+/compiler/ @YOUR-GITHUB-USERNAME @your-org/compiler-team
+
+# Docs and examples
+/docs/ @YOUR-GITHUB-USERNAME @your-org/docs-team
+
+# CI, workflows, and infra
+.github/workflows/ @YOUR-GITHUB-USERNAME @your-org/devops-team
